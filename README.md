@@ -12,7 +12,7 @@
     * Escalating in Competitive Programming
 - 🔭 I’m currently working on a Personal Project soon going to launch it (👁).
 - 📫 How to find me: 
-  - 👁 [Personal Portfolio](https://hereiskunalverma.github.io/tlrc/index.html){:target="_blank" rel="noopener"} 
+  - 👁 [Personal Portfolio](https://hereiskunalverma.github.io/tlrc/index.html){:target="_blank"} 
   - 🏢 [LinkedIn](https://www.linkedin.com/in/kunalverma19/){:target="_blank" rel="noopener"}
 
 - ![Kunal Verma's GitHub stats](https://github-readme-stats.vercel.app/api?username=hereiskunalverma&show_icons=true&theme=vue)
