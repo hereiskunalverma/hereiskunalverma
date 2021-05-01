@@ -1,4 +1,4 @@
-### Hi  👋
+### 👋Hi
 - 🥅 Moto - V-2030. TIME IS LIMITED, NEVER GIVE UP
 - ❤ I love math, competitive programming, data science, and economics.
 - 📗 I am a prodigious reader
