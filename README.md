@@ -4,7 +4,7 @@
 - 📗 I am a prodigious reader
 - 💻 I love to create things, and have a great sense of design.
 - 💬 Ask me about - 
-    * Website Design
+    * Front-End Design
     * Machine Learning Implementations
     * Math
 - 🌱 I’m currently learning -
