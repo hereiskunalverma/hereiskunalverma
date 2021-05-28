@@ -7,6 +7,7 @@
     * Front-End Design
     * Machine Learning Implementations
     * Math
+    * Anything else you want!!!
 - 🌱 I’m currently learning -
     * BackEnd with JavaScript
     * Escalating in Competitive Programming
