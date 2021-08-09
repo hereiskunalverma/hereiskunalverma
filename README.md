@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning -
     * BackEnd with JavaScript
     * Escalating in Competitive Programming
-- 🔭 I’m currently working on a Personal Project soon going to launch it (👁).
+- 🔭 👁.
 - 📫 How to find me: 
   - 👁 [Personal Portfolio](https://hereiskunalverma.github.io/tlrc/index.html)
   - 🏢 [LinkedIn](https://www.linkedin.com/in/kunalverma19/)
