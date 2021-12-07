@@ -4,13 +4,12 @@
 - 📗 I am a prodigious reader
 - 💻 I love to create things, and have a great sense of design.
 - 💬 Ask me about - 
-    * Front-End Design
+    * MERN Stack
     * Machine Learning Implementations
     * Math
     * Anything else you want!!!
-- 🌱 I’m currently learning -
-    * BackEnd with JavaScript
-    * Escalating in Competitive Programming
+    * Competitive Programming
+    * Google Cloud Platform
 - 🔭 👁.
 - 📫 How to find me: 
   - 👁 [Personal Portfolio](https://hereiskunalverma.github.io/tlrc/index.html)
