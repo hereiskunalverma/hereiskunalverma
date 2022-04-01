@@ -1,13 +1,9 @@
 <p align="center">
-    
-    
     <a href="https://github.com/hereiskunalverma/hereiskunalverma/graphs/contributors"><img src="https://img.shields.io/github/contributors/hereiskunalverma/hereiskunalverma?color=blue"></a>
     <a href="https://github.com/hereiskunalverma/hereiskunalverma/stargazers"><img src="https://img.shields.io/github/stars/hereiskunalverma/hereiskunalverma.svg?logo=github"></a>
     <a href="https://github.com/hereiskunalverma/hereiskunalverma/network/members"><img src="https://img.shields.io/github/forks/hereiskunalverma/hereiskunalverma.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=hereiskunalverma.hereiskunalverma" alt="visitors"/>   
 </p>
-
-![](./src/header.jpg)
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Kunal+Verma;+I+am+a!;Competitive+Programmer;Web+Developer;Machine+learning+enthusiast+)](https://git.io/typing-svg)
 
@@ -21,8 +17,7 @@ I am an dedicated and open-minded person who loves to connect with people.
 
 Property | Data
 --- | --- 
-**Language**  | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react) ![C/C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social
-) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Language**  | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react) ![C/C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 **Domain Knownledge**  | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Engineering Badge](https://img.shields.io/badge/Computer%20Science-Engineering-blue)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) 
 **CI / CD** | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb)
 **Databases**  | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![FireBase](https://img.shields.io/badge/Fire-Base-red)
