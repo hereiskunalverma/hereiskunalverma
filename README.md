@@ -8,9 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Kunal+Verma;+I+am+a!;Competitive+Programmer;Web+Developer;Machine+learning+enthusiast+)](https://git.io/typing-svg)
 
 ### About Myself
-I am lucky that I discovered my passion when I was 13 years old. It is to create things, love for machines and softwares.
-I am fanatical, machines and softwares are the only thing I am really focused on.
-I am a edacious reader, a self-learner, a dedicated Competitive Programmer, and an optimisitic person and loves to connect with the people.
+
+I'm a software engineer with a passion for creating elegant and efficient solutions to complex problems. When I'm not writing code, I love to dive into the world of literature, exploring new ideas and perspectives through books. I've always had a deep appreciation for subjects like mathematics and economics, and enjoy staying up-to-date with the latest research and trends in these fields. Whether I'm developing software or exploring new ideas, I'm always striving to learn and grow, and am excited to see what the future holds.
 
 
 
